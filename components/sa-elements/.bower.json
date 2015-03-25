@@ -1,0 +1,20 @@
+{
+  "name": "sa-elements",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "sampler-scaffold": "Polymer/sampler-scaffold#^0.5",
+    "sa-tree": "lyuehh/sa-tree"
+  },
+  "homepage": "https://github.com/lyuehh/sa-elements",
+  "_release": "ee2fae4ede",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ee2fae4ede498ca8ef295394c5a053bf138b72d4"
+  },
+  "_source": "git://github.com/lyuehh/sa-elements.git",
+  "_target": "master",
+  "_originalSource": "lyuehh/sa-elements",
+  "_direct": true
+}
