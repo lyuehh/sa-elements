@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#^0.5",
-    "sampler-scaffold": "Polymer/sampler-scaffold#^0.5"
+    "sampler-scaffold": "Polymer/sampler-scaffold#^0.5",
+    "sa-tree": "lyuehh/sa-tree"
   },
   "version": "0.0.1"
 }
